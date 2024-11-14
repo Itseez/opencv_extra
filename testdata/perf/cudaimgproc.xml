@@ -620,19 +620,19 @@
     <kind>65536</kind>
     <type>5</type>
     <min>9.2804901301860809e-02</min>
-    <max>1.</max>
+    <max>1.2303875684738159e+00</max>
     <last>
       <x>1275</x>
       <y>715</y>
       <val>5.4788005352020264e-01</val></last>
     <rng1>
-      <x>974</x>
-      <y>654</y>
-      <val>4.9442604184150696e-01</val></rng1>
+      <x>282</x>
+      <y>452</y>
+      <val>4.4131344556808472e-01</val></rng1>
     <rng2>
-      <x>343</x>
-      <y>413</y>
-      <val>6.6110229492187500e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x720--5x5--Gray--TM_SQDIFF_NORMED->
+      <x>87</x>
+      <y>451</y>
+      <val>3.9945739507675171e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x720--5x5--Gray--TM_SQDIFF_NORMED->
 <Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x720--5x5--Gray--TM_CCORR->
   <gpu_dst>
     <kind>65536</kind>
@@ -1488,16 +1488,15 @@
     <last>
       <x>1250</x>
       <y>690</y>
-      <val>4.9193862080574036e-01</val></last>
+      <val>4.9193912744522095e-01</val></last>
     <rng1>
-      <x>930</x>
-      <y>651</y>
-      <val>5.2332264184951782e-01</val></rng1>
+      <x>296</x>
+      <y>629</y>
+      <val>5.1503735780715942e-01</val></rng1>
     <rng2>
-      <x>78</x>
-      <y>203</y>
-      <val>5.0551199913024902e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x720--30x30--BGRA--TM_SQDIFF_NORMED->
-<Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x720--30x30--BGRA--TM_CCORR->
+      <x>856</x>
+      <y>196</y>
+      <val>4.9533540010452271e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x720--30x30--BGRA--TM_SQDIFF_NORMED-><Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x720--30x30--BGRA--TM_CCORR->
   <gpu_dst>
     <kind>65536</kind>
     <type>5</type>
@@ -1592,19 +1591,19 @@
     <kind>65536</kind>
     <type>5</type>
     <min>1.2188282608985901e-01</min>
-    <max>1.</max>
+    <max>1.2846534252166748e+00</max>
     <last>
       <x>1275</x>
       <y>1019</y>
       <val>4.7843560576438904e-01</val></last>
     <rng1>
-      <x>745</x>
-      <y>18</y>
-      <val>7.0626866817474365e-01</val></rng1>
+      <x>237</x>
+      <y>75</y>
+      <val>5.5600935220718384e-01</val></rng1>
     <rng2>
-      <x>235</x>
-      <y>146</y>
-      <val>5.9966123104095459e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x1024--5x5--Gray--TM_SQDIFF_NORMED->
+      <x>31</x>
+      <y>988</y>
+      <val>5.5612659454345703e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x1024--5x5--Gray--TM_SQDIFF_NORMED->
 <Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1280x1024--5x5--Gray--TM_CCORR->
   <gpu_dst>
     <kind>65536</kind>
@@ -2564,19 +2563,19 @@
     <kind>65536</kind>
     <type>5</type>
     <min>9.2678308486938477e-02</min>
-    <max>1.</max>
+    <max>1.3494164943695068e+00</max>
     <last>
       <x>1915</x>
       <y>1075</y>
       <val>5.9014219045639038e-01</val></last>
     <rng1>
-      <x>1802</x>
-      <y>273</y>
-      <val>3.7591427564620972e-01</val></rng1>
+      <x>1771</x>
+      <y>5</y>
+      <val>6.5285056829452515e-01</val></rng1>
     <rng2>
-      <x>535</x>
-      <y>378</y>
-      <val>4.9910378456115723e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1920x1080--5x5--Gray--TM_SQDIFF_NORMED->
+      <x>314</x>
+      <y>577</y>
+      <val>4.8825481534004211e-01</val></rng2></gpu_dst></Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1920x1080--5x5--Gray--TM_SQDIFF_NORMED->
 <Sz_TemplateSz_Cn_Method_MatchTemplate8U--MatchTemplate8U---1920x1080--5x5--Gray--TM_CCORR->
   <gpu_dst>
     <kind>65536</kind>

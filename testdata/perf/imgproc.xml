@@ -82769,38 +82769,38 @@
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.1996376514434814e+00</min>
+    <max>2.7733664512634277e+00</max>
     <last>
       <x>629</x>
       <y>469</y>
-      <val>1.</val></last>
+      <val>1.9855326414108276e+00</val></last>
     <rng1>
-      <x>133</x>
-      <y>439</y>
-      <val>1.</val></rng1>
+      <x>117</x>
+      <y>293</y>
+      <val>2.0169336795806885e+00</val></rng1>
     <rng2>
-      <x>435</x>
-      <y>45</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--11x11--TM_SQDIFF_NORMED--32FC1->
+      <x>424</x>
+      <y>324</y>
+      <val>1.8757846355438232e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--11x11--TM_SQDIFF_NORMED--32FC1->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--11x11--TM_SQDIFF_NORMED--32FC3->
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.5492180585861206e+00</min>
+    <max>2.4582321643829346e+00</max>
     <last>
       <x>629</x>
       <y>469</y>
-      <val>1.</val></last>
+      <val>1.9634197950363159e+00</val></last>
     <rng1>
-      <x>186</x>
-      <y>296</y>
-      <val>1.</val></rng1>
+      <x>624</x>
+      <y>268</y>
+      <val>1.9533677101135254e+00</val></rng1>
     <rng2>
-      <x>388</x>
-      <y>35</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--11x11--TM_SQDIFF_NORMED--32FC3->
+      <x>463</x>
+      <y>97</y>
+      <val>1.9133677482604980e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--11x11--TM_SQDIFF_NORMED--32FC3->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--11x11--TM_CCORR--8UC1->
   <result>
     <kind>655360</kind>
@@ -83201,38 +83201,38 @@
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.4660987854003906e+00</min>
+    <max>2.5581536293029785e+00</max>
     <last>
       <x>624</x>
       <y>464</y>
-      <val>1.</val></last>
+      <val>1.8810124397277832e+00</val></last>
     <rng1>
-      <x>501</x>
-      <y>95</y>
-      <val>1.</val></rng1>
+      <x>493</x>
+      <y>163</y>
+      <val>2.0560016632080078e+00</val></rng1>
     <rng2>
-      <x>70</x>
-      <y>229</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--16x16--TM_SQDIFF_NORMED--32FC1->
+      <x>378</x>
+      <y>427</y>
+      <val>1.8830928802490234e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--16x16--TM_SQDIFF_NORMED--32FC1->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--16x16--TM_SQDIFF_NORMED--32FC3->
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.6759862899780273e+00</min>
+    <max>2.3156070709228516e+00</max>
     <last>
       <x>624</x>
       <y>464</y>
-      <val>1.</val></last>
+      <val>1.9438438415527344e+00</val></last>
     <rng1>
-      <x>599</x>
-      <y>68</y>
-      <val>1.</val></rng1>
+      <x>382</x>
+      <y>159</y>
+      <val>2.0380737781524658e+00</val></rng1>
     <rng2>
-      <x>147</x>
-      <y>415</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--16x16--TM_SQDIFF_NORMED--32FC3->
+      <x>164</x>
+      <y>463</y>
+      <val>2.1085443496704102e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--16x16--TM_SQDIFF_NORMED--32FC3->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--16x16--TM_CCORR--8UC1->
   <result>
     <kind>655360</kind>
@@ -83633,39 +83633,38 @@
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.7945369482040405e+00</min>
+    <max>2.2120411396026611e+00</max>
     <last>
       <x>599</x>
       <y>439</y>
-      <val>1.</val></last>
+      <val>2.0392720699310303e+00</val></last>
     <rng1>
-      <x>215</x>
-      <y>47</y>
-      <val>1.</val></rng1>
+      <x>505</x>
+      <y>414</y>
+      <val>1.8261969089508057e+00</val></rng1>
     <rng2>
-      <x>378</x>
-      <y>132</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--41x41--TM_SQDIFF_NORMED--32FC1->
+      <x>37</x>
+      <y>155</y>
+      <val>2.0246219635009766e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--41x41--TM_SQDIFF_NORMED--32FC1->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--41x41--TM_SQDIFF_NORMED--32FC3->
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.8708702325820923e+00</min>
+    <max>2.1187951564788818e+00</max>
     <last>
       <x>599</x>
       <y>439</y>
-      <val>1.</val></last>
+      <val>1.9887628555297852e+00</val></last>
     <rng1>
-      <x>496</x>
-      <y>434</y>
-      <val>1.</val></rng1>
+      <x>439</x>
+      <y>101</y>
+      <val>1.9894602298736572e+00</val></rng1>
     <rng2>
-      <x>521</x>
-      <y>364</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--41x41--TM_SQDIFF_NORMED--32FC3->
-<OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--41x41--TM_CCORR--8UC1->
+      <x>397</x>
+      <y>206</y>
+      <val>2.0150051116943359e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--41x41--TM_SQDIFF_NORMED--32FC3-><OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---640x480--41x41--TM_CCORR--8UC1->
   <result>
     <kind>655360</kind>
     <type>5</type>
@@ -84065,38 +84064,38 @@
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.1346503496170044e+00</min>
+    <max>2.8827202320098877e+00</max>
     <last>
       <x>1269</x>
       <y>1013</y>
-      <val>1.</val></last>
+      <val>1.9231301546096802e+00</val></last>
     <rng1>
-      <x>192</x>
-      <y>854</y>
-      <val>1.</val></rng1>
+      <x>215</x>
+      <y>476</y>
+      <val>2.2645251750946045e+00</val></rng1>
     <rng2>
-      <x>371</x>
-      <y>110</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--11x11--TM_SQDIFF_NORMED--32FC1->
+      <x>835</x>
+      <y>719</y>
+      <val>2.0457854270935059e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--11x11--TM_SQDIFF_NORMED--32FC1->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--11x11--TM_SQDIFF_NORMED--32FC3->
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.4680840969085693e+00</min>
+    <max>2.4853885173797607e+00</max>
     <last>
       <x>1269</x>
       <y>1013</y>
-      <val>1.</val></last>
+      <val>1.9215894937515259e+00</val></last>
     <rng1>
-      <x>312</x>
-      <y>220</y>
-      <val>1.</val></rng1>
+      <x>502</x>
+      <y>495</y>
+      <val>1.8284885883331299e+00</val></rng1>
     <rng2>
-      <x>1073</x>
-      <y>464</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--11x11--TM_SQDIFF_NORMED--32FC3->
+      <x>719</x>
+      <y>605</y>
+      <val>1.9222261905670166e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--11x11--TM_SQDIFF_NORMED--32FC3->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--11x11--TM_CCORR--8UC1->
   <result>
     <kind>655360</kind>
@@ -84497,38 +84496,38 @@
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.3246909379959106e+00</min>
+    <max>2.5823748111724854e+00</max>
     <last>
       <x>1264</x>
       <y>1008</y>
-      <val>1.</val></last>
+      <val>2.1092171669006348e+00</val></last>
     <rng1>
-      <x>522</x>
-      <y>675</y>
-      <val>1.</val></rng1>
+      <x>632</x>
+      <y>502</y>
+      <val>1.9837791919708252e+00</val></rng1>
     <rng2>
-      <x>375</x>
-      <y>387</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--16x16--TM_SQDIFF_NORMED--32FC1->
+      <x>1062</x>
+      <y>797</y>
+      <val>1.9528688192367554e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--16x16--TM_SQDIFF_NORMED--32FC1->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--16x16--TM_SQDIFF_NORMED--32FC3->
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.6451691389083862e+00</min>
+    <max>2.3510835170745850e+00</max>
     <last>
       <x>1264</x>
       <y>1008</y>
-      <val>1.</val></last>
+      <val>2.0319769382476807e+00</val></last>
     <rng1>
-      <x>594</x>
-      <y>505</y>
-      <val>1.</val></rng1>
+      <x>931</x>
+      <y>298</y>
+      <val>1.9792797565460205e+00</val></rng1>
     <rng2>
-      <x>960</x>
-      <y>639</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--16x16--TM_SQDIFF_NORMED--32FC3->
+      <x>380</x>
+      <y>296</y>
+      <val>2.0413315296173096e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--16x16--TM_SQDIFF_NORMED--32FC3->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--16x16--TM_CCORR--8UC1->
   <result>
     <kind>655360</kind>
@@ -84929,38 +84928,39 @@
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.7667424678802490e+00</min>
+    <max>2.2334990501403809e+00</max>
     <last>
       <x>1239</x>
       <y>983</y>
-      <val>1.</val></last>
+      <val>2.0502109527587891e+00</val></last>
     <rng1>
-      <x>315</x>
-      <y>925</y>
-      <val>1.</val></rng1>
+      <x>138</x>
+      <y>847</y>
+      <val>2.0449028015136719e+00</val></rng1>
     <rng2>
-      <x>1058</x>
-      <y>780</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--41x41--TM_SQDIFF_NORMED--32FC1->
+      <x>888</x>
+      <y>101</y>
+      <val>1.9752982854843140e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--41x41--TM_SQDIFF_NORMED--32FC1->
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--41x41--TM_SQDIFF_NORMED--32FC3->
   <result>
     <kind>655360</kind>
     <type>5</type>
-    <min>1.</min>
-    <max>1.</max>
+    <min>1.8590975999832153e+00</min>
+    <max>2.1403098106384277e+00</max>
     <last>
       <x>1239</x>
       <y>983</y>
-      <val>1.</val></last>
+      <val>2.0445902347564697e+00</val></last>
     <rng1>
-      <x>56</x>
-      <y>550</y>
-      <val>1.</val></rng1>
+      <x>1096</x>
+      <y>493</y>
+      <val>1.9627526998519897e+00</val></rng1>
     <rng2>
-      <x>98</x>
-      <y>61</y>
-      <val>1.</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--41x41--TM_SQDIFF_NORMED--32FC3->
+      <x>290</x>
+      <y>742</y>
+      <val>1.9701960086822510e+00</val></rng2></result></OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--41x41--TM_SQDIFF_NORMED--32FC3->
+
 <OCL_ImgSize_TmplSize_Method_MatType_MatchTemplate--MatchTemplate---1280x1024--41x41--TM_CCORR--8UC1->
   <result>
     <kind>655360</kind>
