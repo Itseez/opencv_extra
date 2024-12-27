@@ -1581,6 +1581,17 @@ with torch.no_grad():
 
 save_data_and_model("unflatten", x, model, export_params=True)
 
+class Conv2D(nn.Module):
+    def __init__(self, in_chanl, out_chanl, kernel_size, stride=1, padding=0):
+        super(Conv2D, self).__init__()
+        self.layer = nn.Conv2d(in_chanl, out_chanl, kernel_size, stride, padding)
+    def forward(self, x):
+        return self.layer(x)
+
+model = Conv2D(3, 6, 3, 1, 1)
+x = torch.randn(1, 3, 30, 30) * 30
+save_data_and_model("conv2dPadding", x, model, export_params=True)
+
 def _extract_value_info(x, name, type_proto=None):  # type: (Union[List[Any], np.ndarray, None], Text, Optional[TypeProto]) -> onnx.ValueInfoProto
     if type_proto is None:
         if x is None:
